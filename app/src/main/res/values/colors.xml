@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#c1c0bf</color>
+    <color name="colorAccent">#333</color>
+    <color name="arrow_color">#333333</color>
+</resources>
